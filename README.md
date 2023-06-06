@@ -1,8 +1,6 @@
 <h1>Página Pessoal - Desenvolvedor Web</h1>
 
 <h2>Conteúdo do Menu</h2>
-  
-<h2>Conteúdo do Menu</h2>
   <ul>
     <li><a href="#visão-geral">Visão Geral</a></li>
     <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
@@ -10,8 +8,7 @@
     <li><a href="#como-usar">Como Usar</a></li>
     <li><a href="#contribuições">Contribuições</a></li>
     <li><a href="#licença">Licença</a></li>
-    <li><a href="#conteúdo-do-menu">Conteúdo do Menu</a></li>
-  </ul>
+    </ul>
 
 
   <h2 id="#visão-geral">Visão Geral</h2>
