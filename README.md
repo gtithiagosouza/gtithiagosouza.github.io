@@ -2,12 +2,16 @@
 
 <h2>Conteúdo do Menu</h2>
   
-   Visão Geral
+<h2>Conteúdo do Menu</h2>
+  <ul>
+    <li><a href="#visão-geral">Visão Geral</a></li>
     <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
     <li><a href="#estrutura-do-projeto">Estrutura do Projeto</a></li>
     <li><a href="#como-usar">Como Usar</a></li>
     <li><a href="#contribuições">Contribuições</a></li>
-    [Licença](#-Licença) <br> 
+    <li><a href="#licença">Licença</a></li>
+    <li><a href="#conteúdo-do-menu">Conteúdo do Menu</a></li>
+  </ul>
 
 
   <h2 id="#visão-geral">Visão Geral</h2>
